@@ -1,9 +1,2 @@
-<p align="center">
-  <img src="https://images.app.goo.gl/KUh5Rnmhyw9LNJUh6" width="100" height="100">
-</p>
-
-<p align="center">
-  Hi there! 👋 I'm Kenneth Jay F. Fugen. <br>
-  I'm passionate about coding and creating. <br>
-  Let's connect and collaborate!
-</p>
+###### Now Playing...
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=mieg7o119wynwrowvvhm4fbud&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mieg7o119wynwrowvvhm4fbud&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
