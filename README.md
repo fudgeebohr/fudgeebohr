@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-image-url.com](https://images.app.goo.gl/KUh5Rnmhyw9LNJUh6)" alt="Fudge" width="100" height="100">
+  <img src="https://images.app.goo.gl/KUh5Rnmhyw9LNJUh6" width="100" height="100">
 </p>
 
 <p align="center">
