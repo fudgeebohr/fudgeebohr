@@ -2,7 +2,7 @@
 Fudge @fudgeebohr | 😭 life not happy happy happy
 ```
 
-<img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mieg7o119wynwrowvvhm4fbud&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Now Playing" width="290"/> 
+<img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mieg7o119wynwrowvvhm4fbud&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Now Playing" width="260"/> 
 
 ```markdown
 welcome to fudge's github brainrot
