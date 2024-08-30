@@ -20,7 +20,7 @@ Location:     City of Biñan
 Languages:    C#, Java, Python, HTML
 Learning:     Kotlin
 Discord:      fudgeebohr
-About Me: A hobbyist that does coding for fun (aside from it
-being a school requirement), and an avid music enthusiast
-(c)
+About Me:     A hobbyist that does coding for fun (aside from
+              it being a school requirement), and an avid music
+              enthusiast
 ```
