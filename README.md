@@ -1,4 +1,4 @@
-<img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mieg7o119wynwrowvvhm4fbud&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Now Playing" width="250"/> 
+<img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mieg7o119wynwrowvvhm4fbud&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Now Playing" width="240"/> 
 
 ```markdown
 welcome to fudge's github brainrot
@@ -13,5 +13,5 @@ Languages: C#, Java, Python, HTML
 Learning: Kotlin
 Discord: fudgeebohr
 About Me: A hobbyist that does coding for fun (aside from it
-being a school requirement)
+being a school requirement), and an avid music enthusiast
 ```
