@@ -18,7 +18,7 @@ fudgeeborh@github
 Pronouns:     He/They
 Location:     City of Biñan
 Languages:    C#, Java, Python, HTML
-Learning:     SQL, Kotlin
+Learning:     PostgreSQL, Kotlin
 Discord:      fudgeebohr
 About Me:     A hobbyist that does coding for fun (aside from
               it being a school requirement), and an avid music
