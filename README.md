@@ -9,7 +9,7 @@ welcome to fudge's github brainrot
 
 -------------------------
 
-Hello I'm Fudge! A Year 4 Computer Engineering Student at 
+Hello I'm Fudge! A BS Computer Engineering graduate at 
 Polytechnic University of the Philippines (PUP) - Biñan Campus
 
 -------------------------
